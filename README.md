@@ -1,6 +1,6 @@
 # Pineview Clickstream Pantip Data Cleaning
 
-![Example-data](https://github.com/poom201211/CleanPantipDataForPineview/blob/main/images/ExampleData.png)
+![Example-data](https://github.com/poom201211/CleanPantipDataForPineview/tree/master/images/ExampleData.png)
 
 ## Description
 
